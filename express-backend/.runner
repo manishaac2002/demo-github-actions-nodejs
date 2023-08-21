@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 24,
+  "agentName": "expressjs-app",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/V1e5YDczDWez08bQLDc0rcL2zZMTUAQ86NkFfQHVRx7JEzvXGB",
+  "gitHubUrl": "https://github.com/manishaac2002/demo-github-actions-nodejs",
+  "workFolder": "expressjs-backend"
+}

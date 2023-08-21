@@ -1,0 +1,144 @@
+[2023-08-21 10:28:39Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'Credentials': 'D:\vs code folders\demo\demo-github-actions\express-backend\.credentials'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'Runner': 'D:\vs code folders\demo\demo-github-actions\express-backend\.runner'
+[2023-08-21 10:28:39Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-08-21 10:28:39Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-08-21 10:28:39Z INFO Listener] Version: 2.307.1
+[2023-08-21 10:28:39Z INFO Listener] Commit: 2a7e9ad3a7574c9c3e72b8cf7cf2e19c129d2ca8
+[2023-08-21 10:28:39Z INFO Listener] Culture: en-GB
+[2023-08-21 10:28:39Z INFO Listener] UI Culture: en-GB
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO Listener] Validating directory permissions for: 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO CommandLineParser] Parse
+[2023-08-21 10:28:39Z INFO CommandLineParser] Parsing 1 args
+[2023-08-21 10:28:39Z INFO CommandLineParser] parsing argument
+[2023-08-21 10:28:39Z INFO CommandLineParser] HasArgs: False
+[2023-08-21 10:28:39Z INFO CommandLineParser] Adding Command: run
+[2023-08-21 10:28:39Z INFO Listener] Arguments parsed
+[2023-08-21 10:28:39Z INFO Runner] ExecuteCommand
+[2023-08-21 10:28:39Z INFO ConfigurationStore] currentAssemblyLocation: D:\vs code folders\demo\demo-github-actions\express-backend\bin\Runner.Listener.dll
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] binPath: D:\vs code folders\demo\demo-github-actions\express-backend\bin
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] RootFolder: D:\vs code folders\demo\demo-github-actions\express-backend
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'Runner': 'D:\vs code folders\demo\demo-github-actions\express-backend\.runner'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] ConfigFilePath: D:\vs code folders\demo\demo-github-actions\express-backend\.runner
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'Credentials': 'D:\vs code folders\demo\demo-github-actions\express-backend\.credentials'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] CredFilePath: D:\vs code folders\demo\demo-github-actions\express-backend\.credentials
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_migrated'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] MigratedCredFilePath: D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_migrated
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'Service': 'D:\vs code folders\demo\demo-github-actions\express-backend\.service'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] ServiceConfigFilePath: D:\vs code folders\demo\demo-github-actions\express-backend\.service
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'help': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'version': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'check': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Command 'configure': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Command 'remove': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-08-21 10:28:39Z INFO ConfigurationManager] LoadSettings
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured()
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured: True
+[2023-08-21 10:28:39Z INFO ConfigurationManager] Is configured: True
+[2023-08-21 10:28:39Z INFO ConfigurationStore] Read setting file: 331 chars
+[2023-08-21 10:28:39Z INFO ConfigurationManager] Settings Loaded
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:28:39Z INFO CommandSettings] Command 'run': 'True'
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured()
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured: True
+[2023-08-21 10:28:39Z INFO ConfigurationManager] Is configured: True
+[2023-08-21 10:28:39Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-08-21 10:28:39Z INFO Runner] Set runner startup type - Manual
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'once': 'False'
+[2023-08-21 10:28:39Z INFO CommandSettings] Flag 'once': 'False'
+[2023-08-21 10:28:39Z INFO Runner] RunAsync
+[2023-08-21 10:28:39Z INFO ConfigurationManager] LoadSettings
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured()
+[2023-08-21 10:28:39Z INFO ConfigurationStore] IsConfigured: True
+[2023-08-21 10:28:39Z INFO ConfigurationManager] Is configured: True
+[2023-08-21 10:28:39Z INFO ConfigurationManager] Settings Loaded
+[2023-08-21 10:28:39Z INFO MessageListener] {
+  "AgentId": 24,
+  "AgentName": "expressjs-app",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/V1e5YDczDWez08bQLDc0rcL2zZMTUAQ86NkFfQHVRx7JEzvXGB",
+  "GitHubUrl": "https://github.com/manishaac2002/demo-github-actions-nodejs",
+  "WorkFolder": "expressjs-backend"
+}
+[2023-08-21 10:28:39Z INFO MessageListener] Loading Credentials
+[2023-08-21 10:28:39Z INFO ConfigurationStore] HasCredentials()
+[2023-08-21 10:28:39Z INFO ConfigurationStore] stored True
+[2023-08-21 10:28:39Z INFO CredentialManager] GetCredentialProvider
+[2023-08-21 10:28:39Z INFO CredentialManager] Creating type OAuth
+[2023-08-21 10:28:39Z INFO CredentialManager] Creating credential type: OAuth
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Bin': 'D:\vs code folders\demo\demo-github-actions\express-backend\bin'
+[2023-08-21 10:28:39Z INFO HostContext] Well known directory 'Root': 'D:\vs code folders\demo\demo-github-actions\express-backend'
+[2023-08-21 10:28:39Z INFO HostContext] Well known config file 'RSACredentials': 'D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_rsaparams'
+[2023-08-21 10:28:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_rsaparams
+[2023-08-21 10:28:39Z INFO MessageListener] Attempt to create session.
+[2023-08-21 10:28:39Z INFO MessageListener] Connecting to the Runner Server...
+[2023-08-21 10:28:39Z INFO RunnerServer] EstablishVssConnection
+[2023-08-21 10:28:39Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-08-21 10:28:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-21 10:28:39Z INFO RunnerServer] EstablishVssConnection
+[2023-08-21 10:28:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-08-21 10:28:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-21 10:28:39Z INFO RunnerServer] EstablishVssConnection
+[2023-08-21 10:28:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-08-21 10:28:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-08-21 10:28:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-21 10:28:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-21 10:28:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-08-21 10:28:41Z INFO MessageListener] VssConnection created
+[2023-08-21 10:28:41Z INFO Terminal] WRITE LINE: 
+[2023-08-21 10:28:41Z INFO Terminal] WRITE LINE: 
+[2023-08-21 10:28:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_rsaparams
+[2023-08-21 10:28:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\vs code folders\demo\demo-github-actions\express-backend\.credentials_rsaparams
+[2023-08-21 10:28:41Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-08-21 10:28:42Z INFO MessageListener] Session created.
+[2023-08-21 10:28:42Z INFO Terminal] WRITE LINE: Current runner version: '2.307.1'
+[2023-08-21 10:28:42Z INFO Terminal] WRITE LINE: 2023-08-21 10:28:42Z: Listening for Jobs
+[2023-08-21 10:28:42Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-08-21 10:31:26Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:26Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:26Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:26Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-08-21 10:31:26Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/V1e5YDczDWez08bQLDc0rcL2zZMTUAQ86NkFfQHVRx7JEzvXGB/_apis/distributedtask/pools/1/messages?sessionId=658e94c2-a380-4755-89db-4cd159ece14c&status=Online&runnerVersion=2.307.1 has been cancelled.
+[2023-08-21 10:31:26Z INFO MessageListener] Get next message has been cancelled.
+[2023-08-21 10:31:26Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-08-21 10:31:27Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:27Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:27Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:27Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-08-21 10:31:28Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:28Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:28Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:28Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-08-21 10:31:28Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:28Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:28Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:28Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-08-21 10:31:29Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:29Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:29Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:29Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-08-21 10:31:31Z INFO Terminal] WRITE LINE: Exiting...
+[2023-08-21 10:31:31Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-08-21 10:31:31Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-08-21 10:31:31Z INFO HostContext] Runner will be shutdown for UserCancelled
